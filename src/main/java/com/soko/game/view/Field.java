@@ -1,7 +1,7 @@
-package main.java.com.soko.controller.view;
+package main.java.com.soko.game.view;
 
-import main.java.com.soko.controller.EventListener;
-import main.java.com.soko.controller.model.Direction;
+import main.java.com.soko.game.EventListener;
+import main.java.com.soko.game.model.Direction;
 
 import javax.swing.*;
 import java.awt.*;

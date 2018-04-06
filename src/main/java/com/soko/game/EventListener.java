@@ -1,6 +1,6 @@
-package main.java.com.soko.controller;
+package main.java.com.soko.game;
 
-import main.java.com.soko.controller.model.Direction;
+import main.java.com.soko.game.model.Direction;
 
 public interface EventListener {
     void move(Direction direction);

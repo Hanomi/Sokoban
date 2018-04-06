@@ -1,6 +1,6 @@
-package main.java.com.soko.controller.model;
+package main.java.com.soko.game.model;
 
-import main.java.com.soko.controller.EventListener;
+import main.java.com.soko.game.EventListener;
 
 import java.io.File;
 import java.util.*;

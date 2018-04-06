@@ -1,4 +1,4 @@
-package main.java.com.soko.controller.model;
+package main.java.com.soko.game.model;
 
 import java.awt.*;
 

@@ -1,9 +1,9 @@
-package main.java.com.soko.controller;
+package main.java.com.soko.game;
 
-import main.java.com.soko.controller.model.Direction;
-import main.java.com.soko.controller.model.GameObjects;
-import main.java.com.soko.controller.model.Model;
-import main.java.com.soko.controller.view.View;
+import main.java.com.soko.game.model.Direction;
+import main.java.com.soko.game.model.GameObjects;
+import main.java.com.soko.game.model.Model;
+import main.java.com.soko.game.view.View;
 
 public class Controller implements EventListener {
     private View view;

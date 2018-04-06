@@ -1,6 +1,6 @@
-package main.java.com.soko.controller.model;
+package main.java.com.soko.game.model;
 
-import static main.java.com.soko.controller.model.Model.FIELD_CELL_SIZE;
+import static main.java.com.soko.game.model.Model.FIELD_CELL_SIZE;
 
 abstract class CollisionObject extends GameObject {
     CollisionObject(int x, int y) {
