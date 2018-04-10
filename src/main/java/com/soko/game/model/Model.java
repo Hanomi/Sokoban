@@ -41,6 +41,11 @@ public class Model {
         restart();
     }
 
+    public void changeLevel(int i) {
+        currentLevel = i;
+        restart();
+    }
+
     public void move(Direction direction) {
         Player player = gameObjects.getPlayer();
         if (checkWallCollision(player, direction) || checkBoxAndMoveAvailable(direction)) return;
